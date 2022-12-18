@@ -1,0 +1,2 @@
+Read over the full data descriptions to understand what information is available
+Think about how the player tracking can be used to create metrics
